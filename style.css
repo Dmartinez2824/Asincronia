@@ -25,7 +25,7 @@ body {
 .contenedores {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    /* gap: 15px; */
+    gap: 15px;
     width: 100%;
     max-width: 800px;
     margin: 0 auto;
