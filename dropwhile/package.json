@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lodash.dropwhile": "^4.6.0"
+  }
+}

@@ -6,3 +6,5 @@ setTimeout(() => alert(i), 100); //lee esto y pasa de frente por el intervalo de
 for(let j = 0; j < 10000000; j++){ // entra al for, así los ms hayan cumplido hasta que no termine el for no lanzara el alert
     i++
 }
+//A se ejecuta despues del bucle 
+

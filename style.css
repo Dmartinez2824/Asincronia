@@ -8,10 +8,11 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    /*height: 100vh; */
     margin: 0;
     padding: 20px;
     color: #333;
+    background-image: url(img/fondo.jpg);
 }
 
 .titulo {
@@ -19,9 +20,10 @@ body {
     color: #333;
     margin-bottom: 20px;
     text-align: center;
+    color: #9b1212;
+    text-shadow: 8px 8px 5px rgba(41, 54, 94, 0.2);
 }
 
-/* Estilos de la cuadrícula */
 .contenedores {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -41,13 +43,16 @@ body {
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    transition: 0.2s;
     font-size: 0.9rem;
     text-align: center;
 }
+.links:visited{
+    background-color: cornsilk;
+}
 
 .links:hover {
-    transform: translateY(-4px);
+    transform: translateY(-10px);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
     background-color: #9b1212;
 }
