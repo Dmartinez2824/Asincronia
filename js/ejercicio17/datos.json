@@ -1,0 +1,13 @@
+{
+ "empleados": [
+    { "nombre": "ana", "edad": 19 },
+
+    { "nombre": "berenice", "edad": 7 },
+
+    { "nombre": "daniel", "edad": 21 },
+
+    { "nombre": "angel", "edad": 18 },
+    
+    { "nombre": "miguel", "edad": 16 }
+]
+}

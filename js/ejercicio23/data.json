@@ -1,0 +1,26 @@
+[
+    {
+      "nombre": "Juan Pérez",
+      "edad": 30,
+      "empresa": "COCA-COLA",
+      "animal": "Perro"
+    },
+    {
+      "nombre": "María Gómez",
+      "edad": 25,
+      "empresa": "PEPSI",
+      "animal": "Gato"
+    },
+    {
+      "nombre": "Carlos Rodríguez",
+      "edad": 40,
+      "empresa": "POSTOBON",
+      "animal": "Conejo"
+    },
+    {
+      "nombre": "Lucía Fernández",
+      "edad": 35,
+      "empresa": "COLOMBIANA",
+      "animal": "Pájaro"
+    }
+  ]
